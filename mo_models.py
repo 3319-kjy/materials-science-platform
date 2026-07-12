@@ -1,4 +1,4 @@
-%%writefile mo_models.py
+
 import numpy as np
 
 PLANCK_CONSTANT_EV_S = 4.135667696e-15  # eV·s
